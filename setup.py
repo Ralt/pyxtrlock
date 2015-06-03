@@ -31,10 +31,7 @@ pyxtrlock -- The leightweight screen locker rewritten in Python
 ---------------------------------------------------------------
 
 pyxtrlock is a very limited transparent X screen locker inspired by Ian
-Jackson’s great xtrlock program. pyxtrlock uses modern libraries, most
 importantly the obsolete direct passwd/shadow authentication has been replaced
-by today’s PAM authentication mechanism, hence it also works on Fedora. Also,
-it’s mostly written using XCB instead of Xlib.
 
 """
 
